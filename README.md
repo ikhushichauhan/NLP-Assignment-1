@@ -1,12 +1,12 @@
 # NLP-Assignment-1
 Lab_Assignment
 
-📌 Project Overview
+## Project Overview
 This repository contains a practical NLP and Web Scraping Assessment developed using Python.
 
 The project focuses on collecting useful information from web pages, extracting data from HTML elements, and performing basic text processing and data organization.
 
-🛠️ Tools & Technologies :
+## Tools & Technologies :
 
 
 Python
